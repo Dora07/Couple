@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "Screen Shot 2021-01-14 at 2.02.58 AM.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
